@@ -1,4 +1,4 @@
-Building a resume using python and django
+# Building a resume using python and django
 
 ## Acknowledgements
 
